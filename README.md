@@ -5,7 +5,7 @@
 ### General Information
 This project's incipit was to use a retail chain transaction dataset to create value out of it for the client company. This dataset contained around 300k transactions on a 3-month period: by analysing them, we drafted some recommendations with the goal of boosting profits while increasing customer satisfaction. The main result of the analysis is a data-driven loyalty program that is expected to increase retention and, thus, the company profits.
 
-### Data:
+### Data
 Each transaction is described by:
 - customer ID (if the customers were part of the loyalty program)
 - store ID
